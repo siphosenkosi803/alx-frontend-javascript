@@ -1,0 +1,21 @@
+{
+  "name": "0x00-es6_basic",
+  "version": "1.0.0",
+  "description": "--------------- 0x00-ES6_basic ---------------",
+  "main": "11-main.js",
+  "type": "module",
+  "dependencies": {
+    "babel-jest": "^29.5.0",
+    "eslint": "^8.43.0",
+    "jest": "^29.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node 12-main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
+
